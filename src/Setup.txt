@@ -1,0 +1,10 @@
+Övning 1 - Battleships
+    * Minst 4 båtar
+    * Vs dator/spelare
+    * Valfri nisch
+
+ Ska innehålla:
+    * 2 interface(pre-game, player-turn)
+    * 1 abstrakt klass(båt)
+    * polymorfism och abstraktion
+ Ska dokumenteras med javadoc
